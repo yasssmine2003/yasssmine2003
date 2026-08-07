@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0891B2,100:00D9C0&height=220&section=header&text=Yasmine%20Bouchami&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0891B2,100:00D9C0&height=220&section=header&text=Yasmine%20Bouchami&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+AI%2FML+Engineer+%7C+Computer+Vision+%7C+GenAI;%24+cat+current_focus.txt;%3E+Building+intelligent+healthcare+%26+edtech+apps;%24+echo+%24STATUS;%3E+Open+to+AI%2FML+roles+worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+AI%2FML+Engineer+%7C++%7C+GenAI;%24+cat+current_focus.txt;%3E+Building+intelligent+healthcare+%26+edtech+apps;%24+echo+%24STATUS;%3E+Open+to+AI%2FML+roles+worldwide" alt="Typing SVG" />
 
 </div>
 
@@ -37,7 +37,7 @@ Computer Engineering student and AI/ML & Full-Stack Developer focused on turning
 ```bash
 ROLE     = "AI/ML Engineer & Full-Stack Developer"
 EXP      = "Student Developer | AI/ML Internship Experience"
-DOMAIN   = "Healthcare AI, Computer Vision, EdTech, Generative AI"
+DOMAIN   = "Healthcare AI, EdTech, Generative AI"
 STACK    = "Python, TypeScript, Java, React, FastAPI, TensorFlow, LangChain"
 OPEN_TO  = "AI Engineer, ML Engineer, GenAI Engineer, Data Scientist"
 ```
@@ -77,7 +77,6 @@ OPEN_TO  = "AI Engineer, ML Engineer, GenAI Engineer, Data Scientist"
 <div align="center">
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-00D9C0?style=for-the-badge&logoColor=0D1117)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-0891B2?style=for-the-badge&logoColor=0D1117)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-00D9C0?style=for-the-badge&logoColor=0D1117)
 ![Generative AI](https://img.shields.io/badge/Generative-AI-0891B2?style=for-the-badge&logoColor=0D1117)
 ![RAG](https://img.shields.io/badge/RAG-LangChain-00D9C0?style=for-the-badge&logoColor=0D1117)
@@ -92,7 +91,8 @@ OPEN_TO  = "AI Engineer, ML Engineer, GenAI Engineer, Data Scientist"
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Machine Learning | ●●●●○ | Scikit-learn, SVM, classification/regression models, predictive systems |
-| Deep Learning & Computer Vision | ●●●●○ | CNNs, ResNet, DenseNet, transfer learning, TensorFlow/Keras |
+| Deep Learning |
+●●●●○ | CNNs, ResNet, DenseNet, transfer learning, TensorFlow/Keras |
 | Generative AI & LLMs | ●●●○○ | LangChain, RAG, embeddings, vector DBs (FAISS, Chroma), Hugging Face, Ollama |
 | Full-Stack Development | ●●●●○ | React, Angular, FastAPI, Node.js/Express, Spring Boot |
 | Mobile Development | ●●●○○ | Flutter, Dart, Ionic |
