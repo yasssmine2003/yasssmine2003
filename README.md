@@ -254,13 +254,13 @@ Image classification project applying transfer learning to the CIFAR-10 dataset.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=yasssmine2003&theme=github_dark" width="100%" />
+<img src="https://raw.githubusercontent.com/yasssmine2003/yasssmine2003/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=yasssmine2003&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=yasssmine2003&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=yasssmine2003&theme=github_dark" width="32%" />
+<img src="https://raw.githubusercontent.com/yasssmine2003/yasssmine2003/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/yasssmine2003/yasssmine2003/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/yasssmine2003/yasssmine2003/main/profile-summary-card-output/github_dark/3-stats.svg" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=yasssmine2003&theme=github_dark" width="100%" />
+<img src="https://raw.githubusercontent.com/yasssmine2003/yasssmine2003/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
 
 </div>
 
